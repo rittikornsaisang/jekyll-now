@@ -11,13 +11,9 @@ categories: myblog
 #### ทีมฟุตบอลที่ชอบ
 ![Note8](https://daily.rabbitstatic.com/wp-content/uploads/2016/12/logo.jpg)
 ### อาหารที่ชอบ
-
-| อาหารหลัก         | เครื่องดื่ม           | ของหวาน  |
-| ------------- |:-------------:| -----:|
-| ส้มตำไก่ย่าง        | น้ำผลไม้           | ทองหยด   |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| อาหารหลัก        | เครื่องดื่ม           | ของหวาน  |
-| --------------- |:-------------:   | -----:   |
-| ส้มตำไก่ย่าง        | น้ำผลไม้           | ทองหยด   |
+อาหารหลัก ส้มตำไก่ย่าง
+![Note8](https://img-wongnai.cdn.byteark.com/p/l/2016/09/14/004df6a27ff04f54a0ae8ed7e40136ea.jpg)
+ของหวาน ทองหยด ไอติม
+![Note8](http://learnthaiwithmod.com/wp-content/uploads/2013/09/Thai-dessert-Tong-Yord.jpg)
+เครื่องดื่ม น้ำผลไม้
+![Note8](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSguDAMB7b2vaIJ_tSyT-5IvTuikzr6mG2jCJX_fNDN3CKG_Msa)
