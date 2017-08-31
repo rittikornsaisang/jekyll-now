@@ -18,5 +18,3 @@ categories: myblog
 ของหวาน ทองหยด ไอติม
 ![Note8](http://learnthaiwithmod.com/wp-content/uploads/2013/09/Thai-dessert-Tong-Yord.jpg)
 
-เครื่องดื่ม น้ำผลไม้
-![Note8](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSguDAMB7b2vaIJ_tSyT-5IvTuikzr6mG2jCJX_fNDN3CKG_Msa)
