@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 Rittikorn Saisang
-Bank
+ Bank
 
 ### ฮีโร่ที่ชอบ
 
-สไปดอร์แมน
+สไปเดอร์แมน
 ![Note8](http://2.bp.blogspot.com/-eUtTFOwVcpo/T-odjMCmggI/AAAAAAAAA3c/qSVTWs1854o/s640/Spider-Man-3-Dark-Poster.jpg)
 ### อนิเมะที่ชอบ
 
