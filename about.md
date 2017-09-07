@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About rittikorn
 permalink: /about/
 ---
 
-Some information about you!
+Rittikorn Saisang
+Bank
 
-### More Information
+### ฮีโร่ที่ชอบ
 
-A place to include any other types of information that you'd like to include about yourself.
+สไปร์เดอร์แมน
 
-### Contact me
+### อนิเมะที่ชอบ
 
-[email@domain.com](mailto:email@domain.com)
+Sword Art Online, วันพืช
