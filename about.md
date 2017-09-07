@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Rittikorn Saisang
- Bank
++ Bank
 
 ### ฮีโร่ที่ชอบ
 
