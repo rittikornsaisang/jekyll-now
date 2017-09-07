@@ -4,8 +4,8 @@ title: About rittikorn
 permalink: /about/
 ---
 
-Rittikorn Saisang
-  Bank
+Rittikorn Saisang 
+Bank
 
 ### ฮีโร่ที่ชอบ
 
